@@ -1,4 +1,4 @@
-print("hello world!")
+print("hello world!") #printing stmt in python
 
 # comment in python  (single line comment)
 """ 
@@ -22,11 +22,11 @@ number1=5
 number1=7
 #we get th op as 7
 
-text="saniya" #we can give the text for var but we need to use ""
+text="sana" #we can give the text for var but we need to use ""
 
-Name="saniya"
+Name="sana"
 age=19
-print(Name,age)
+print(Name,age)# It print both name and age
 
 x,y,z=23,24,25
 print(z)#op is 25
@@ -36,7 +36,7 @@ print(x,y,z)#op is 23,24,25
 ##################
 number1=56   #integer
 number2=9.5  #float(decimal point)
-number3="sani" #string
+number3="sana" #string
 number4=True or False  #boolean
 
 #type()
@@ -65,7 +65,7 @@ print(type(result)) #op is <class 'str'>
 #String
 ############
 
-text="sani"
+text="sana"
 print(text) #op sani
 print(text[0]) #op is s
 text="Hello World!"
@@ -89,7 +89,7 @@ print(text.lower()) #op helloworld
 
 x=1
 y=1.2
-z="sani"
+z="sana"
 a=True #boolean  1
 b=False # 0
 print(a) #op is True
